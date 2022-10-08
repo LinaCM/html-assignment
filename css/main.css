@@ -1,0 +1,33 @@
+/* My CSS */
+body {
+  background-color: pink;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+}
+
+.site-title {
+  color: white;
+}
+header, footer {
+  background-color: rgb(168, 122, 202);
+}
+#my-image {
+  box-shadow: 0px 0px 2px 1px #100d0d;
+}
+ul {
+  list-style-type: square;
+}
+dd ul li:nth-child(odd) {
+  background-color: rgb(126, 185, 198);
+}
+body ul nav {
+  list-style:none;
+}
+a:link {
+  text-decoration: none; 
+  background-color: rgb(197, 137, 251);
+  border-style: dotted;
+}
+a:hover {
+  background-color: rgb(104, 74, 142);
+}
