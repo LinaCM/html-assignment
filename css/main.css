@@ -20,7 +20,7 @@ ul {
 dd ul li:nth-child(odd) {
   background-color: rgb(126, 185, 198);
 }
-body ul nav {
+body nav ul {
   list-style:none;
 }
 a:link {
